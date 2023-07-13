@@ -10,7 +10,7 @@ to be or not to be
 
 ## Class Diagram
 
-Factory Pattern
+Factory Method
 
 ```mermaid
 ---
