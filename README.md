@@ -1,5 +1,11 @@
 # Genetic Algorithm
 
+## Install
+
+```bash
+go get github.com/adrian-lin-1-0-0/go-genetic-algorithme
+```
+
 ## Example
 
 ```sh
